@@ -28,12 +28,11 @@ export default function Testomonial() {
                   <StarHalf color="#e11d48" />
                 </p>
                 <p>
-                  {" "}
-                  "These days.. every one is more for a friendly customer
+                  &ldquo;These days.. every one is more for a friendly customer
                   service, I would say that this shop has it. Plus, you still
                   can find what you need from American chips, candies, and
                   lollies also American drinks as well including big range of
-                  cigarettes. I recommend it." - Legolas L
+                  cigarettes. I recommend it.&ldquo;- Legolas L
                 </p>
               </CardContent>
             </Card>
@@ -51,11 +50,11 @@ export default function Testomonial() {
                   <StarHalf color="#e11d48" />
                 </p>
                 <p>
-                  "Thanks to TSG Hamil, our design process has become a breeze.
-                  Quick, intuitive, and packed with features, it's the perfect
-                  companion for turning concepts into captivating mockups. A
-                  game-changer for any designer aiming for speed and
-                  creativity." - Harry Potter
+                  &ldquo;Thanks to TSG Hamil, our design process has become a
+                  breeze. Quick, intuitive, and packed with features, it's the
+                  perfect companion for turning concepts into captivating
+                  mockups. A game-changer for any designer aiming for speed and
+                  creativity.&ldquo; - Harry Potter
                 </p>
               </CardContent>
             </Card>
@@ -73,14 +72,14 @@ export default function Testomonial() {
                   <StarHalf color="#e11d48" />
                 </p>
                 <p>
-                  "Quaint store, used to be a City Convenience store. Lovely
-                  staff behind the counter who was more than happy to welcome
-                  you to the store. It may be a small store but it's clean,
-                  bright with lovely smell of fresh coffee, as they serve "make
-                  yourself coffee" machine here. This is good old fashion
+                  &ldquo;Quaint store, used to be a City Convenience store.
+                  Lovely staff behind the counter who was more than happy to
+                  welcome you to the store. It may be a small store but it's
+                  clean, bright with lovely smell of fresh coffee, as they serve
+                  "make yourself coffee" machine here. This is good old fashion
                   service with a smile. There's also an ATM machine here as
-                  well, just on the outside wall. Cheers for great services!" -
-                  Antoine M
+                  well, just on the outside wall. Cheers for great
+                  services!&ldquo; - Antoine M
                 </p>
               </CardContent>
             </Card>
@@ -98,11 +97,11 @@ export default function Testomonial() {
                   <StarHalf color="#e11d48" />
                 </p>
                 <p>
-                  "Thanks to TSG Hamil, our design process has become a breeze.
-                  Quick, intuitive, and packed with features, it's the perfect
-                  companion for turning concepts into captivating mockups. A
-                  game-changer for any designer aiming for speed and
-                  creativity." - Harry Potter
+                  &ldquo;Thanks to TSG Hamil, our design process has become a
+                  breeze. Quick, intuitive, and packed with features, it's the
+                  perfect companion for turning concepts into captivating
+                  mockups. A game-changer for any designer aiming for speed and
+                  creativity.&ldquo; - Harry Potter
                 </p>
               </CardContent>
             </Card>
@@ -120,11 +119,11 @@ export default function Testomonial() {
                   <StarHalf color="#e11d48" />
                 </p>
                 <p>
-                  "TSG Hamil has revolutionized our design workflow! With its
-                  user-friendly interface and powerful features, creating
+                  &ldquo;TSG Hamil has revolutionized our design workflow! With
+                  its user-friendly interface and powerful features, creating
                   visually appealing prototypes has never been easier. It's a
                   must-have for any designer looking to boost efficiency and
-                  bring ideas to life seamlessly." - John Doe
+                  bring ideas to life seamlessly.&ldquo; - John Doe
                 </p>
               </CardContent>
             </Card>

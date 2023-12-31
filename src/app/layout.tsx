@@ -1,6 +1,5 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-import SmoothScroll from "@/components/SmoothScroll";
 import { Toaster } from "@/components/ui/toaster";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
@@ -25,9 +24,7 @@ export default function RootLayout({
       >
         <main className="relative flex flex-col min-h-screen">
           <Navbar />
-          <div className="flex-grow flex-1">
-            <SmoothScroll>{children}</SmoothScroll>
-          </div>
+          <div className="flex-grow flex-1">{children}</div>
           <Footer />
         </main>
         <Toaster />
