@@ -77,7 +77,7 @@ export default function Testomonial() {
                   welcome you to the store. It may be a small store but
                   it&apos;s clean, bright with lovely smell of fresh coffee, as
                   they serve &ldquo;make yourself coffee&ldquo; machine here.
-                  This is good old fashion service with a smile. There's also an
+                  This is good old fashion service with a smile. There also an
                   ATM machine here as well, just on the outside wall. Cheers for
                   great services!&ldquo; - Antoine M
                 </p>
